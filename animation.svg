@@ -1,0 +1,16 @@
+<svg width="100%" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="300" fill="#111" />
+  
+  <!-- Car -->
+  <image href="assets/e30.png" x="-200" y="180" width="200" height="80">
+    <animateTransform attributeName="transform"
+      type="translate"
+      from="-200 0" to="300 0"
+      dur="4s" fill="freeze" />
+  </image>
+
+  <!-- Boy appears -->
+  <image href="assets/boy.png" x="340" y="150" width="50" height="80" opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="4s" dur="1s" fill="freeze" />
+  </image>
+</svg>
