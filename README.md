@@ -1,1 +1,36 @@
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=999&bg_color=0D1117&hide_border=true" alt="Batman GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&title_color=FFD700&text_color=999&bg_color=0D1117&hide_border=true" alt="Top Languages" /> </p>
+<!-- BMW E30 Animated Intro -->
+<p align="center">
+  <img src="animation.svg" alt="BMW E30 arriving" width="100%">
+</p>
+
+---
+
+### 👋🏾 Hey there, I’m **Talam G**
+> “Coding like the wind, steady like the E30’s hum.”
+
+I’m a **developer & designer** passionate about:
+- Building meaningful tools 🚀  
+- Automating workflows ⚙️  
+- Exploring data & AI 💡  
+
+---
+
+### 📱 My Digital Dashboard
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TalamG&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalamG&layout=compact&theme=tokyonight" width="48%">
+</p>
+
+---
+
+### 🧠 Currently Learning
+- MQL5 & Forex indicator scripting  
+- Python for data visualization  
+- Modern web animation (SVG & Framer Motion)
+
+---
+
+### 🛠️ Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/yourname)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://x.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel)](https://yourportfolio.com)
