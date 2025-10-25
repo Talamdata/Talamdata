@@ -19,9 +19,9 @@
 ---
 
 ## 💡 Fun Stats
-![Talam’s GitHub stats](https://github-readme-stats.vercel.app/api?username=TalamGift&show_icons=true&theme=radical)
+![Talam’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Talamdata&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TalamGift&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talamdata&layout=compact&theme=tokyonight)
 
 ---
 
