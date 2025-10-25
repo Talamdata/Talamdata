@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Talam Gift!
+# 👋 Hi World, I'm Talam Gift!
 
 🌟 A curious data science student, future AI engineer, and part-time dreamer.  
 🎓 Currently learning: **Python | AI & Machine Learning **  
@@ -40,6 +40,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=githubpages&logoColor=white)](https://YOUR-PAGE.github.io)
 
 ---
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 ⭐ **Thanks for stopping by!** Drop a ⭐ on one of my projects if you like it!
