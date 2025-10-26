@@ -1,4 +1,4 @@
-# 👋 Hi World, I'm Talam Gift!
+#  Hi World, I'm Talam Gift!
 
 🌟 A curious data science student, future AI engineer, and part-time dreamer.  
 🎓 Currently learning: **Python | AI & Machine Learning **  
