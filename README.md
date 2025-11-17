@@ -36,7 +36,7 @@ Build AI projects that mix data & creativity** 🎶🤖
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://ke.linkedin.com/in/talam-gift-a95275311)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YOUR-HANDLE)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Talam___?s=08)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=githubpages&logoColor=white)](https://YOUR-PAGE.github.io)
 
 ---
