@@ -1,6 +1,6 @@
 #  Hi World, I'm Talam Gift!
 
-🌟 A curious data science student, future AI engineer, and part-time dreamer.  
+🌟 A curious data scientist,aspiring AI engineer, and part-time dreamer.  
 🎓 Currently learning: **Python | AI & Machine Learning **  
 <!--🎮 Fun fact: My Dream League Soccer team has Ronaldo, Szoboszlai & KDB 😏 --> 
 
